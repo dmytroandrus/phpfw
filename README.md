@@ -1,3 +1,3 @@
 # phpfw
-# gitdmytroandrus
+# dmytroandrus
 my mini framework on php
