@@ -1,0 +1,20 @@
+[2021-09-21 05:32:20] Текст ошибки: Контроллер <b>app\Controllers\admin\MainController</b> не найден | Файл: /Users/dmytroandrus/sites/phpfw/vendor/phpfw/core/Router.php | Строка: 81 
+=================
+[2021-09-21 05:32:21] Текст ошибки: Страница не найдена | Файл: /Users/dmytroandrus/sites/phpfw/vendor/phpfw/core/Router.php | Строка: 84 
+=================
+[2021-09-21 05:33:41] Текст ошибки: Контроллер <b>app\Controllers\admin\MainController</b> не найден | Файл: /Users/dmytroandrus/sites/phpfw/vendor/phpfw/core/Router.php | Строка: 81 
+=================
+[2021-09-21 05:34:04] Текст ошибки: Trying to access array offset on value of type null | Файл: /Users/dmytroandrus/sites/phpfw/vendor/phpfw/core/base/Lang.php | Строка: 12 
+=================
+[2021-09-21 09:34:18] Текст ошибки: Страница не найдена | Файл: /Users/dmytroandrus/sites/phpfw/vendor/phpfw/core/Router.php | Строка: 84 
+=================
+[2021-09-21 09:35:59] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''created_at DESC  -- keep-cache' at line 1 | Файл: /Users/dmytroandrus/sites/phpfw/vendor/phpfw/libs/rb-mysql.php | Строка: 834 
+=================
+[2021-09-21 09:59:41] Текст ошибки: Undefined index: title | Файл: /Users/dmytroandrus/sites/phpfw/app/views/inc/sidebar.php | Строка: 16 
+=================
+[2021-09-21 10:02:15] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 0  -- keep-cache' at line 1 | Файл: /Users/dmytroandrus/sites/phpfw/vendor/phpfw/libs/rb-mysql.php | Строка: 834 
+=================
+[2021-09-21 10:08:23] Текст ошибки: Страница не найдена | Файл: /Users/dmytroandrus/sites/phpfw/vendor/phpfw/core/Router.php | Строка: 84 
+=================
+[2021-09-21 10:09:41] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY created_at DESC  -- keep-cache' at line 1 | Файл: /Users/dmytroandrus/sites/phpfw/vendor/phpfw/libs/rb-mysql.php | Строка: 834 
+=================

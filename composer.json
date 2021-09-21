@@ -1,0 +1,13 @@
+{
+    "name": "dmytroandrus/phpfw",
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "vlucas/valitron": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "phpfw\\": "vendor/phpfw",
+            "app\\": "app"
+        }
+    }
+}
